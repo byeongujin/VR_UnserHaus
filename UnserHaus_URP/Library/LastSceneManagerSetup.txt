@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ArchVizPRO_Interior_Vol.8/3D SCENE/UnserHaus_URP.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
