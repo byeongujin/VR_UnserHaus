@@ -90,7 +90,7 @@ For more information, please refer to the [Project Hompage](http://oktopusmagazi
 
 <!-- LANGUAGE -->
 ## Language
-Korean, German
+English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
