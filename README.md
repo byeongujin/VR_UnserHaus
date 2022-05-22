@@ -42,8 +42,10 @@ Watch [Demo video](https://drive.google.com/file/d/1TFsmY96sgwcL9YNxgFzCWSRxmNR3
 
 ### Built With
 
-* Unity 2020.3.24f1
+* Unity 2021.3.0f1
 * XR Interaction Toolkit
+* URP
+* 3D Model Asset: ArchVizPRO Interior Vol.8
 * C#
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -56,7 +58,7 @@ Watch [Demo video](https://drive.google.com/file/d/1TFsmY96sgwcL9YNxgFzCWSRxmNR3
 ### Prerequisites
 
 * Oculus Quest 2
-* Unser Haus app. for Oculus Quest 2
+* Unser Haus application
 
 ### Installation
 
@@ -88,7 +90,7 @@ For more information, please refer to the [Project Hompage](http://oktopusmagazi
 
 <!-- LANGUAGE -->
 ## Language
-Korean, German
+English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
