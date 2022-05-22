@@ -35,8 +35,10 @@ Berlin's multi culture-themed VR project
 
 <img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot1.png" width = "600" height = "400">
 <img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot2.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot3.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot4.png" width = "600" height = "400">
 
-Watch [Demo video](https://drive.google.com/file/d/1TFsmY96sgwcL9YNxgFzCWSRxmNR3y1ZI/view?usp=sharing)
+Watch [Demo video](https://drive.google.com/file/d/16kG_hfUTmX31UsvWuQlOtcPEwzgC72Ab/view?usp=sharing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,7 +64,7 @@ Watch [Demo video](https://drive.google.com/file/d/1TFsmY96sgwcL9YNxgFzCWSRxmNR3
 
 ### Installation
 
-1. app. Download [Here](https://drive.google.com/file/d/1V2_PGKVByO-QIMd220-Oo_Ye9R2zTQ-J/view?usp=sharing)
+1. app. Download [Here](https://drive.google.com/file/d/1iJ5BJFcEqVkFl2a9BUCNxH6RePTwv0KB/view?usp=sharing)
 2. Install on your Oculus Quest through Oculus Link
 3. Play
 
